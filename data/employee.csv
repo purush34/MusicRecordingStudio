@@ -1,78 +1,78 @@
-id,fname,lname,gender,dob,mail,phno,city,zipcode,datejoined,salary,role
-E001,Rega,Targarian,Male,1980-05-05,rega@gmail.om,8888888888,Kingslanding,518512,2002-07-06,5600,Admin
-E002,Mahi,Shinoy,Male,1990-05-17,rahimdysp@gmail.com,8456123785,Ri Bhoi,793103,2010-09-09,74000,Employee
-E003,Konda,Venkata Sai Sumitha,Female,1965-12-02,abhay2003gopal@gmail.com,9456123147,East Garo Hills,794111,2012-05-12,45000,Employee
-E004,Muhammed,Shajahan,Male,1990-12-25,abhikrishnaram88@gmail.com,9456123784,East Garo Hills,794110,2010-09-05,24000,Employee
-E005,Dhruv,Dinesh,Male,1989-12-14,adarshsinghdpsjkp.1587@gmail.com,8478475487,Chamrajnagar,571442,2010-08-13,52000,Employee
-E006,GOKUL,KRISHNA B R,Male,1985-08-03,aadianan@gmail.com,7454754756,East Sikkim,737134,2015-12-05,86000,Employee
-E007,Akshay,K,Male,1995-09-25,aishwaryapareparambil@gmail.com,8456789456,Hyderabad,500004,2020-08-15,45000,Employee
-E008,Katru,Venkata Naga Satya Sarath,Male,1982-10-25,akshayajith292@gmail.com,9457845123,Hyderabad,500045,2014-03-25,25000,Employee
-E009,Adith,Krishna,Male,1983-05-08,allenkammanghat@gmail.com,8745612345,Hyderabad,500004,2014-02-03,32000,Employee
-E010,Anshuman,Swain,Male,1980-01-01,arun.somasekharan@gmail.com,9456124785,Hyderabad,500091,2015-12-10,41000,Employee
-E011,Gautham,Krishnan Priya,Female,1980-09-09,ananthuappu0404@gmail.com,7458745126,Hyderabad,500034,2015-02-25,25365,Employee
-E012,Harikrishna,Satheesh Pillai,Male,1958-12-06,anjanaamenon2003@gmail.com,8475123745,Hyderabad,500004,2016-12-12,21322,Employee
-E013,Karthik,Dinesh,Male,1998-12-25,dksingh3659@yahoo.com,9457812345,Nicobar,744302,2018-05-14,82000,Admin
-E014,Gopisetty,Venkata Vivek,Male,1995-04-13,rsm.raja61@gmail.com,9475812347,Nicobar,744301,2019-02-15,96000,Admin
-E015,Satvik,Aravalapalli,Male,1993-12-15,aswink2004@gmail.com,8451236954,Nicobar,744303,2015-02-13,26000,Employee
-E016,Bollisetty,Shiva Shankara Varaprasad,Male,2003-03-05,anandababub9@gmail.com,7456891234,Tirap,792129,2015-05-06,47000,Employee
-E017,Bandra,Mohammed Sami Shaik,Male,1996-02-12,venkatasubbarao173@gmail.com,8451234568,Tirap,792129,2016-02-04,52000,Employee
-E018,Daketi,Karav Tej,Male,1965-12-25,bharathkrishna0appu@gmail.com,9456123147,East Sikkim,737135,2015-04-12,25245,Admin
-E019,Purushottam,Reddy,Male,2002-08-03,purush3190@gmail.com,6300793297,Kurnool,518512,2012-03-12,54000,Admin
-E020,Adithya,D Varma,Male,1955-04-24,dharmajee@hotmail.com,9456214578,Dibang Valley,792101,2015-02-05,74000,Employee
-E021,P,JAGATH SUYA,Male,1992-12-14,sureshkumarnv27@gmail.com,7456123456,Arwal,824115,2016-02-04,45000,Employee
-E022,Anfas,Hassan V,Female,1985-10-25,laxmilazz2003@gmail.com,7451234567,Arwal,804401,2014-06-24,24000,Employee
-E023,Behera,Khitish Kumar,Male,1993-11-02,Kisor15jan@gmail.com,8456123456,Chandigarh,140119,2015-11-25,52000,Employee
-E024,Aiswarya,Satheesh,Female,1988-01-15,gauthammuralinmbr@gmail.com,9451231475,Chandigarh,160003,2019-02-15,86000,Employee
-E025,SK,Anand,Male,1958-05-06,jagruthig2003@gmail.com,8451236941,Gariaband,493891,2017-03-20,45000,Employee
-E026,Athul,Gireesh,Male,2000-12-01,gouthamkrishna013@gmail.com,7145612345,East Delhi,110090,2015-12-15,54254,Employee
-E027,Adithya,Krishna,Female,1993-11-10,sanju3099@gmail.com,9447305858,South West Delhi,110075,2018-10-16,32000,Employee
-E028,Anagha,Viju,Female,1999-11-03,harshtpu@gmail.com,9495415460,North Delhi,110006,2017-09-16,41000,Employee
-E029,SWATHY,RAJESH,Female,1999-01-05,hrishabtharayil987@gmail.com,9074833903,North Delhi,110006,2010-09-09,25365,Employee
-E030,Nandita,Sangeeth,Female,1991-04-26,varghesejoe86@gmail.com,8299342443,North Goa,403503,2012-05-12,21322,Employee
-E031,Varalakshmi,MR,Female,1994-12-11,pranayreddyk1204@gmail.com,6282329695,North Goa,403530,2010-09-05,82000,Employee
-E032,Navneeth,Krishna,Male,1992-02-03,ketone.agasti@gmail.com,7012427965,Gandhi Nagar,382640,2010-08-13,96000,Employee
-E033,Anushka,Kaimal,Female,1958-05-03,varunkotha20@gmail.com,9447066052,Gandhi Nagar,382810,2015-12-05,26000,Employee
-E034,Adithya,R K Nambiar,Male,1989-12-12,chenchulakshminarayanarao@gmail.com,9495949062,Gandhi Nagar,382735,2020-08-15,15251,Employee
-E035,Ashwin,Tejo,Male,1992-12-14,nishantpramod@yahoo.co.in,9446563025,Gandhi Nagar,382305,2014-03-25,86000,Employee
-E036,Sidharth,S Nair,Male,2000-12-12,pranathi02m@gmail.com,8089639697,Mahe,673310,2014-02-03,74000,Employee
-E037,Ananthakrishnan,Suresh,Male,1996-01-05,meenak7307@gmail.com,9846394119,North Goa,403512,2015-12-10,45000,Employee
-E038,Amirtha,Narayana NK,Female,1985-12-08,mohithbnair@gmail.com,7042462451,North Goa,403508,2015-02-25,24000,Employee
-E039,Karan,Rajesh Nair,Male,1996-01-14,nukalanarmada08021978@gmail.com,9492449986,North Goa,403521,2016-12-12,52000,Employee
-E040,Roopa,Ravali Bemarasetty,Female,1996-04-12,lycanrocdusk0@gmail.com,6238456348,Pondicherry,605110,2018-05-14,86000,Employee
-E041,Phanidhar,Reddy Guttikonda,Male,1984-01-05,n.lalithkarthik17@gmail.com,9446082508,Pondicherry,607402,2019-02-15,45000,Employee
-E042,ANANTHAJITH,NAMBIAR H,Male,1994-05-08,niranjansnambiar.sudinam@gmail.com,8886428184,Idukki,685561,2015-02-13,74000,Employee
-E043,D,Sushanth Reddy,Male,1965-06-04,arjunkrishnapm777@gmail.com,8137086108,Idukki,685590,2015-05-06,45000,Employee
-E044,MANAV,MANIPRASAD,Male,1958-06-04,nineedn+078@gmail.com,9581836603,Kollam,689696,2016-02-04,24000,Employee
-E045,Gouri,S Vipin,Female,1978-05-01,pournamipremjithpp@gmail.com,9440955436,Kollam,691573,2015-04-12,52000,Employee
-E046,Charishma,Akshaya Pullakhandam,Female,1975-05-07,surekhadrk@gmail.com,9447505986,Palakkad,679503,2012-03-12,86000,Employee
-E047,Tallapalli,Uday Krishna,Male,1977-02-05,pyarasaani.jaidev@gmail.com,8590354928,Palakkad,678581,2013-12-15,45000,Employee
-E048,Parvathy,G Pillai,Female,1975-11-15,ranginenis@gmail.com,9943023261,Adilabad,504273,2018-11-04,32000,Employee
-E049,Adithya,S Nair,Male,1975-04-02,geddamsujathakumari@gmail.com,9746741778,Adilabad,504293,2015-08-05,41000,Employee
-E050,Kattamuri,Tejo Vardhan,Male,1987-01-26,rohithshinoj@gmail.com,9949848535,Adilabad,504307,2019-05-03,25365,Employee
-E051,Aravind,M J,Male,1984-11-21,ravindrat6960@gmail.com,9497858258,Adilabad,504001,2018-12-11,21322,Employee
-E052,R,V AJAGOPALAN,Male,1985-12-12,sanjaymaestron@gmail.com,6300424884,Adilabad,504001,2017-09-16,82000,Employee
-E053,Anugrah,Nambiar,Male,1996-01-04,shriyaindarapu2003@gmail.com,9487521755,Adilabad,504251,2010-09-09,96000,Employee
-E054,Kancharla,venkata Keerthana reddy,Female,1987-02-05,sidharthav4321@gmail.com,9844533493,Adilabad,504273,2012-05-12,26000,Employee
-E055,Santhosh,Mamidisetti,Male,1999-02-25,venusdr@gmail.com,7736712867,East Sikkim,737113,2010-09-05,74000,Employee
-E056,Abhinand,M S,Male,1988-02-05,mithunpc@gmail.com,7330983849,Coimbatore,642205,2010-08-13,45000,Employee
-E057,J,Viswaksena,Male,1982-05-14,gopinullivila@gmail.com,9704515577,East Sikkim,737135,2015-12-05,24000,Employee
-E058,SURYA,VAMSI VEMA,Male,1987-11-30,rajamanigowd3@gmail.com,8328677635,Madurai,625514,2020-08-15,52000,Employee
-E059,Sai,Manasa Sowmya Hasavathu,Female,1999-02-04,udamalapratyusha@gmail.com,9703670009,East Sikkim,737106,2014-03-25,86000,Employee
-E060,Avadhuta,Sai Varun,Female,1987-05-04,varunnkp2003@gmail.com,8129179828,Coimbatore,641663,2014-02-03,45000,Employee
-E061,Karthik,G Nair,Male,1978-11-05,venigallamanoj99@gmail.com,9849527175,Chennai,600102,2015-12-10,74000,Employee
-E062,Abhishek,a,Male,1975-02-25,vinayakvthayil40@gmail.com,9746350524,Chamrajnagar,571441,2015-02-25,45000,Employee
-E063,ANNAPOORNA,AK,Female,1974-11-26,viswajith.v.nair@gmail.com,9846335837,Chennai,600002,2016-12-12,24000,Employee
-E064,Vishnu,Shaji,Male,1975-01-31,yaswanth.004.001@gmail.com,8639151252,East Sikkim,737113,2018-05-14,52000,Employee
-E065,Parvathi,Pk,Female,1994-09-25,aksharack398@gmail.com,8921897754,Madurai,625501,2019-02-15,86000,Employee
-E066,NAVNEETH,SURESH,Male,1972-02-06,binoyjose9@gmail.com,7993126059,Coimbatore,641652,2015-02-13,45000,Employee
-E067,Dhruv,R Krishnan,Male,1988-10-25,amruthganeshjm@gmail.com,8606490693,Chennai,600101,2015-05-06,21322,Employee
-E068,Gouru,Sai Deepak,Male,1992-12-12,rajeevkala97@gmail.com,8078851981,Coimbatore,642002,2016-02-04,82000,Employee
-E069,A,P KRISHN,Male,1995-01-01,geelupaul@gmail.com,9030789899,East Sikkim,737134,2015-04-12,96000,Employee
-E070,Madiraju,Bharadwaj,Male,1996-08-09,anuparunaruna@gmail.com,8848836481,Coimbatore,642111,2012-03-12,32000,Employee
-E071,SHAIK,NADEEM MOHAMMAD,Male,1995-09-08,a.sreenu1971@gmail.com,9248126789,Ri Bhoi,793104,2013-12-15,41000,Employee
-E072,Vedagiri,Praneeth,Male,1996-08-06,aswinc200369@gmail.com,8886333655,Guntur,522235,2018-11-04,25365,Employee
-E073,Ishaan,Dadhich,Male,1997-09-07,bknairpala@gmail.com,9000899942,Amritsar,143502,2015-08-05,21322,Employee
-E074,Abhishek,S B,Male,1998-10-06,syamsaibandi48@gmail.com,9493476258,Krishna,521202,2019-05-03,82000,Employee
-E075,Advaith,P R,Male,1999-11-05,gokulg2255@gmail.com,7034238865,Visakhapatnam,531035,2018-12-11,96000,Employee
-E076,Adith,S Biju,Male,1989-12-04,gokrish.2003@gmail.com,8247686960,Hisar,125033,2014-02-03,26000,Employee
-E078,mani,kanta,Male,1951-07-12,manikantathota23@gmail.com,8247733544,jangareddygudem,534447,2002-04-13,5000000,Admin
+id,fname,lname,gender,dob,mail,phno,city,zipcode,datejoined,salary,role
+E001,Rega,Targarian,Male,1980-05-05,rega@gmail.om,8888888888,Kingslanding,518512,2002-07-06,5600,Admin
+E002,Mahi,Shinoy,Male,1990-05-17,rahimdysp@gmail.com,8456123785,Ri Bhoi,793103,2010-09-09,74000,Employee
+E003,Konda,Venkata Sai Sumitha,Female,1965-12-02,abhay2003gopal@gmail.com,9456123147,East Garo Hills,794111,2012-05-12,45000,Employee
+E004,Muhammed,Shajahan,Male,1990-12-25,abhikrishnaram88@gmail.com,9456123784,East Garo Hills,794110,2010-09-05,24000,Employee
+E005,Dhruv,Dinesh,Male,1989-12-14,adarshsinghdpsjkp.1587@gmail.com,8478475487,Chamrajnagar,571442,2010-08-13,52000,Employee
+E006,GOKUL,KRISHNA B R,Male,1985-08-03,aadianan@gmail.com,7454754756,East Sikkim,737134,2015-12-05,86000,Employee
+E007,Akshay,K,Male,1995-09-25,aishwaryapareparambil@gmail.com,8456789456,Hyderabad,500004,2020-08-15,45000,Employee
+E008,Katru,Venkata Naga Satya Sarath,Male,1982-10-25,akshayajith292@gmail.com,9457845123,Hyderabad,500045,2014-03-25,25000,Employee
+E009,Adith,Krishna,Male,1983-05-08,allenkammanghat@gmail.com,8745612345,Hyderabad,500004,2014-02-03,32000,Employee
+E010,Anshuman,Swain,Male,1980-01-01,arun.somasekharan@gmail.com,9456124785,Hyderabad,500091,2015-12-10,41000,Employee
+E011,Gautham,Krishnan Priya,Female,1980-09-09,ananthuappu0404@gmail.com,7458745126,Hyderabad,500034,2015-02-25,25365,Employee
+E012,Harikrishna,Satheesh Pillai,Male,1958-12-06,anjanaamenon2003@gmail.com,8475123745,Hyderabad,500004,2016-12-12,21322,Employee
+E013,Karthik,Dinesh,Male,1998-12-25,dksingh3659@yahoo.com,9457812345,Nicobar,744302,2018-05-14,82000,Admin
+E014,Gopisetty,Venkata Vivek,Male,1995-04-13,rsm.raja61@gmail.com,9475812347,Nicobar,744301,2019-02-15,96000,Admin
+E015,Satvik,Aravalapalli,Male,1993-12-15,aswink2004@gmail.com,8451236954,Nicobar,744303,2015-02-13,26000,Employee
+E016,Bollisetty,Shiva Shankara Varaprasad,Male,2003-03-05,anandababub9@gmail.com,7456891234,Tirap,792129,2015-05-06,47000,Employee
+E017,Bandra,Mohammed Sami Shaik,Male,1996-02-12,venkatasubbarao173@gmail.com,8451234568,Tirap,792129,2016-02-04,52000,Employee
+E018,Daketi,Karav Tej,Male,1965-12-25,bharathkrishna0appu@gmail.com,9456123147,East Sikkim,737135,2015-04-12,25245,Admin
+E019,Purushottam,Reddy,Male,2002-08-03,purush3190@gmail.com,6300793297,Kurnool,518512,2012-03-12,54000,Admin
+E020,Adithya,D Varma,Male,1955-04-24,dharmajee@hotmail.com,9456214578,Dibang Valley,792101,2015-02-05,74000,Employee
+E021,P,JAGATH SUYA,Male,1992-12-14,sureshkumarnv27@gmail.com,7456123456,Arwal,824115,2016-02-04,45000,Employee
+E022,Anfas,Hassan V,Female,1985-10-25,laxmilazz2003@gmail.com,7451234567,Arwal,804401,2014-06-24,24000,Employee
+E023,Behera,Khitish Kumar,Male,1993-11-02,Kisor15jan@gmail.com,8456123456,Chandigarh,140119,2015-11-25,52000,Employee
+E024,Aiswarya,Satheesh,Female,1988-01-15,gauthammuralinmbr@gmail.com,9451231475,Chandigarh,160003,2019-02-15,86000,Employee
+E025,SK,Anand,Male,1958-05-06,jagruthig2003@gmail.com,8451236941,Gariaband,493891,2017-03-20,45000,Employee
+E026,Athul,Gireesh,Male,2000-12-01,gouthamkrishna013@gmail.com,7145612345,East Delhi,110090,2015-12-15,54254,Employee
+E027,Adithya,Krishna,Female,1993-11-10,sanju3099@gmail.com,9447305858,South West Delhi,110075,2018-10-16,32000,Employee
+E028,Anagha,Viju,Female,1999-11-03,harshtpu@gmail.com,9495415460,North Delhi,110006,2017-09-16,41000,Employee
+E029,SWATHY,RAJESH,Female,1999-01-05,hrishabtharayil987@gmail.com,9074833903,North Delhi,110006,2010-09-09,25365,Employee
+E030,Nandita,Sangeeth,Female,1991-04-26,varghesejoe86@gmail.com,8299342443,North Goa,403503,2012-05-12,21322,Employee
+E031,Varalakshmi,MR,Female,1994-12-11,pranayreddyk1204@gmail.com,6282329695,North Goa,403530,2010-09-05,82000,Employee
+E032,Navneeth,Krishna,Male,1992-02-03,ketone.agasti@gmail.com,7012427965,Gandhi Nagar,382640,2010-08-13,96000,Employee
+E033,Anushka,Kaimal,Female,1958-05-03,varunkotha20@gmail.com,9447066052,Gandhi Nagar,382810,2015-12-05,26000,Employee
+E034,Adithya,R K Nambiar,Male,1989-12-12,chenchulakshminarayanarao@gmail.com,9495949062,Gandhi Nagar,382735,2020-08-15,15251,Employee
+E035,Ashwin,Tejo,Male,1992-12-14,nishantpramod@yahoo.co.in,9446563025,Gandhi Nagar,382305,2014-03-25,86000,Employee
+E036,Sidharth,S Nair,Male,2000-12-12,pranathi02m@gmail.com,8089639697,Mahe,673310,2014-02-03,74000,Employee
+E037,Ananthakrishnan,Suresh,Male,1996-01-05,meenak7307@gmail.com,9846394119,North Goa,403512,2015-12-10,45000,Employee
+E038,Amirtha,Narayana NK,Female,1985-12-08,mohithbnair@gmail.com,7042462451,North Goa,403508,2015-02-25,24000,Employee
+E039,Karan,Rajesh Nair,Male,1996-01-14,nukalanarmada08021978@gmail.com,9492449986,North Goa,403521,2016-12-12,52000,Employee
+E040,Roopa,Ravali Bemarasetty,Female,1996-04-12,lycanrocdusk0@gmail.com,6238456348,Pondicherry,605110,2018-05-14,86000,Employee
+E041,Phanidhar,Reddy Guttikonda,Male,1984-01-05,n.lalithkarthik17@gmail.com,9446082508,Pondicherry,607402,2019-02-15,45000,Employee
+E042,ANANTHAJITH,NAMBIAR H,Male,1994-05-08,niranjansnambiar.sudinam@gmail.com,8886428184,Idukki,685561,2015-02-13,74000,Employee
+E043,D,Sushanth Reddy,Male,1965-06-04,arjunkrishnapm777@gmail.com,8137086108,Idukki,685590,2015-05-06,45000,Employee
+E044,MANAV,MANIPRASAD,Male,1958-06-04,nineedn+078@gmail.com,9581836603,Kollam,689696,2016-02-04,24000,Employee
+E045,Gouri,S Vipin,Female,1978-05-01,pournamipremjithpp@gmail.com,9440955436,Kollam,691573,2015-04-12,52000,Employee
+E046,Charishma,Akshaya Pullakhandam,Female,1975-05-07,surekhadrk@gmail.com,9447505986,Palakkad,679503,2012-03-12,86000,Employee
+E047,Tallapalli,Uday Krishna,Male,1977-02-05,pyarasaani.jaidev@gmail.com,8590354928,Palakkad,678581,2013-12-15,45000,Employee
+E048,Parvathy,G Pillai,Female,1975-11-15,ranginenis@gmail.com,9943023261,Adilabad,504273,2018-11-04,32000,Employee
+E049,Adithya,S Nair,Male,1975-04-02,geddamsujathakumari@gmail.com,9746741778,Adilabad,504293,2015-08-05,41000,Employee
+E050,Kattamuri,Tejo Vardhan,Male,1987-01-26,rohithshinoj@gmail.com,9949848535,Adilabad,504307,2019-05-03,25365,Employee
+E051,Aravind,M J,Male,1984-11-21,ravindrat6960@gmail.com,9497858258,Adilabad,504001,2018-12-11,21322,Employee
+E052,R,V AJAGOPALAN,Male,1985-12-12,sanjaymaestron@gmail.com,6300424884,Adilabad,504001,2017-09-16,82000,Employee
+E053,Anugrah,Nambiar,Male,1996-01-04,shriyaindarapu2003@gmail.com,9487521755,Adilabad,504251,2010-09-09,96000,Employee
+E054,Kancharla,venkata Keerthana reddy,Female,1987-02-05,sidharthav4321@gmail.com,9844533493,Adilabad,504273,2012-05-12,26000,Employee
+E055,Santhosh,Mamidisetti,Male,1999-02-25,venusdr@gmail.com,7736712867,East Sikkim,737113,2010-09-05,74000,Employee
+E056,Abhinand,M S,Male,1988-02-05,mithunpc@gmail.com,7330983849,Coimbatore,642205,2010-08-13,45000,Employee
+E057,J,Viswaksena,Male,1982-05-14,gopinullivila@gmail.com,9704515577,East Sikkim,737135,2015-12-05,24000,Employee
+E058,SURYA,VAMSI VEMA,Male,1987-11-30,rajamanigowd3@gmail.com,8328677635,Madurai,625514,2020-08-15,52000,Employee
+E059,Sai,Manasa Sowmya Hasavathu,Female,1999-02-04,udamalapratyusha@gmail.com,9703670009,East Sikkim,737106,2014-03-25,86000,Employee
+E060,Avadhuta,Sai Varun,Female,1987-05-04,varunnkp2003@gmail.com,8129179828,Coimbatore,641663,2014-02-03,45000,Employee
+E061,Karthik,G Nair,Male,1978-11-05,venigallamanoj99@gmail.com,9849527175,Chennai,600102,2015-12-10,74000,Employee
+E062,Abhishek,a,Male,1975-02-25,vinayakvthayil40@gmail.com,9746350524,Chamrajnagar,571441,2015-02-25,45000,Employee
+E063,ANNAPOORNA,AK,Female,1974-11-26,viswajith.v.nair@gmail.com,9846335837,Chennai,600002,2016-12-12,24000,Employee
+E064,Vishnu,Shaji,Male,1975-01-31,yaswanth.004.001@gmail.com,8639151252,East Sikkim,737113,2018-05-14,52000,Employee
+E065,Parvathi,Pk,Female,1994-09-25,aksharack398@gmail.com,8921897754,Madurai,625501,2019-02-15,86000,Employee
+E066,NAVNEETH,SURESH,Male,1972-02-06,binoyjose9@gmail.com,7993126059,Coimbatore,641652,2015-02-13,45000,Employee
+E067,Dhruv,R Krishnan,Male,1988-10-25,amruthganeshjm@gmail.com,8606490693,Chennai,600101,2015-05-06,21322,Employee
+E068,Gouru,Sai Deepak,Male,1992-12-12,rajeevkala97@gmail.com,8078851981,Coimbatore,642002,2016-02-04,82000,Employee
+E069,A,P KRISHN,Male,1995-01-01,geelupaul@gmail.com,9030789899,East Sikkim,737134,2015-04-12,96000,Employee
+E070,Madiraju,Bharadwaj,Male,1996-08-09,anuparunaruna@gmail.com,8848836481,Coimbatore,642111,2012-03-12,32000,Employee
+E071,SHAIK,NADEEM MOHAMMAD,Male,1995-09-08,a.sreenu1971@gmail.com,9248126789,Ri Bhoi,793104,2013-12-15,41000,Employee
+E072,Vedagiri,Praneeth,Male,1996-08-06,aswinc200369@gmail.com,8886333655,Guntur,522235,2018-11-04,25365,Employee
+E073,Ishaan,Dadhich,Male,1997-09-07,bknairpala@gmail.com,9000899942,Amritsar,143502,2015-08-05,21322,Employee
+E074,Abhishek,S B,Male,1998-10-06,syamsaibandi48@gmail.com,9493476258,Krishna,521202,2019-05-03,82000,Employee
+E075,Advaith,P R,Male,1999-11-05,gokulg2255@gmail.com,7034238865,Visakhapatnam,531035,2018-12-11,96000,Employee
+E076,Adith,S Biju,Male,1989-12-04,gokrish.2003@gmail.com,8247686960,Hisar,125033,2014-02-03,26000,Employee
+E078,mani,kanta,Male,1951-07-12,manikantathota23@gmail.com,8247733544,jangareddygudem,534447,2002-04-13,5000000,Admin

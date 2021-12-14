@@ -1,82 +1,82 @@
-id,fname,lname,gender,dob,datejoined,mail,phno,city,zip,role
-A001,Rob,Start,Male,1958-12-05,2002-08-06,rob12@gmail.com,9494959158,winterfall,514896,Lyricist
-A002,A.R.,Rahman,Male,1966-06-05,2003-06-14,rahman06@gmail.com,9895715248,Chennai,600001,Lyricist
-A003,Krishna ,Chaitanya,Male,1966-05-15,2006-12-04,chaitanyak@gmail.com,8129197922,Eluru,561001,Lyricist
-A004,Chadrabose,K,Male,1987-04-21,1995-12-08,kscb@gmail.com,9446090724,Challagariga,506100,Lyricist
-A005,Aishwarya,P,Female,1964-12-31,2011-11-08,aishwaryapareparambil@gmail.com,9567194194,Bareilly,732496,Lyricist
-A006,Deepak,P Nambiar,Male,1984-10-07,2016-05-04,sulekhanambiar@outlook.com,9207230197,Basti,679197,Lyricist
-A007,Govind,Murali,Male,1976-07-08,2001-06-02,govindmurali47@gmail.com,9447333007,Bijnor,640449,Lyricist
-A008,Harry,Paul,Male,1966-02-05,2011-09-03,harrypaul1812@gmail.com,9544514506,Bithur,660071,Lyricist
-A009,Vishnu,Sreekumar,Male,1970-12-30,2004-11-13,kalavedu4050@gmail.com,9495613097,Chittoor,649988,Lyricist
-A010,Niranjan,Praveen,Male,1968-12-27,2002-02-05,praveenkarilly@gmail.com,9129705463,Dowlaiswaram,534871,Lyricist
-A011,POWELL,MOOTHEDAN,Male,1961-04-15,1998-12-25,powellmoothedan12c@gmail.com,9846986214,Eluru,726126,Lyricist
-A012,Nelapati,Lalith Karthik,Male,1981-05-15,2009-01-21,n.lalithkarthik17@gmail.com,8287520837,Guntur,748876,Lyricist
-A013,AMIN,SHAJAHAN,Male,1969-07-10,2001-08-26,aminshaikhb@gmail.com,9847894688,Kadapa,592953,Lyricist
-A014,Prithvi,Raj,Male,1971-02-07,2007-05-18,prithvic1103@gmail.com,9656759294,Kakinada,756309,Lyricist
-A015,Shradha,Shaji,Female,1980-04-16,1995-10-08,deepthysist@gmail.com,8106127114,Kurnool,680280,Lyricist
-A016,Abhishek,A b,Male,1976-05-04,2004-05-03,kehsihba.ab@icloud.com,9765138194,Machilipatnam,625525,Lyricist
-A017,SREEKANTH,K,Male,1978-02-19,2000-09-22,sreekanthk2003@gmail.com,7909113000,Nagarjunako??a,689898,Lyricist
-A018,Abhijith,S,Male,1960-02-20,2000-04-07,abhit999@gmail.com,7510336648,Rajahmundry,516035,Lyricist
-A019,B,Ananda Deva,Male,1970-02-08,1999-09-11,anandababub9@gmail.com,8086214895,Srikakulam,762377,Lyricist
-A020,Vinayak,V Thayil,Male,1964-05-01,2003-01-13,vinaythayil12@gmail.com,9446763771,Tirupati,677392,Lyricist
-A021,Arijit,Singh,Male,1987-04-25,2007-08-17,arijith@gmail.com,9949886613,Vijayawada,742104,Vocalyst
-A022,Amitabh,Bhattacharya,Male,1976-11-16,2004-02-14,amitabhbatta@gmail.com,8074866182,Visakhapatnam,720123,Lyricist
-A023,Pritam,Chakraborty,Male,1971-06-14,2001-05-04,pritam@gmail.com,9446177964,Vizianagaram,734012,Lyricist
-A024,B,Praak,Male,1986-02-07,2009-12-12,pratik@gmail.com,9985100229,Yemmiganur,789010,Vocalyst
-A025,Vishal,Mishra,Male,1991-12-03,2015-02-13,vishalm@gmail.com,6303658929,Arunach,786510,Vocalyst
-A026,Amit,Trivedi,Male,1979-04-08,2003-07-10,amit@gmail.com,8078092819,Ahmadnagar,707452,Vocalyst
-A027,Shreya,Ghoshal,Female,1960-12-20,1995-09-30,shreya@gmail.com,9948346176,Akola,786883,Vocalyst
-A028,Mithoon,M,Male,1972-12-09,2000-08-01,mithoon@gmail.com,6303747821,Amravati,722978,Lyricist
-A029,Varun,Dhawan,Male,1970-09-24,2004-07-08,varun@gmail.com,9446118887,Aurangabad,605659,Vocalyst
-A030,Ayushmann,Khurrana,Male,1985-06-29,2002-10-16,ayushmann@gmail.com,9249888070,Bhandara,542503,Vocalyst
-A031,Kumaar,K,Male,1969-07-13,1995-03-11,kumaar@gmail.com,9446343531,Bhusawal,673851,Lyricist
-A032,Manoj,Muntashir,Male,1980-11-14,1999-10-01,manoj@gmail.com,7593900874,Bid,711625,Lyricist
-A033,Alia,Bhatt,Female,1990-11-27,1998-10-31,alia@gmail.com,7593916064,Buldana,744218,Vocalyst
-A034,Arko,Vishvak,Female,1983-12-12,1997-12-02,arko@gmail.com,7025033975,Chandrapur,504764,Lyricist
-A035,Sidharth,Malhotra,Male,1962-09-07,1996-07-04,sidharth@gmail.com,9983043999,Daulatabad,507626,Vocalyst
-A036,Irshad,Kamil,Male,1974-08-10,2013-05-20,irshad@gmail.com,8592077065,Dhule,651058,Lyricist
-A037,Kim,Jordan,Male,1964-10-18,2004-08-14,king@gmail.com,7736416072,Jalgaon,655425,Lyricist
-A038,Atif,Aslam,Male,1969-03-16,2008-09-06,atif@gmail.com,8919953153,Kalyan,692603,Lyricist
-A039,Jaani,NULL,Female,1984-07-24,2009-07-26,jaani@gamil.com,8790718855,Karli,643256,Lyricist
-A040,Tanishk,Bagchi,Male,1973-04-27,2007-06-30,tanishk@gmail.com,9550598956,Kolhapur,640534,Lyricist
-A041,Jubin,Nautiyal,Male,1960-04-22,1995-09-16,jubin@gmail.com,8590578470,Mahabaleshwar,664742,Lyricist
-A042,Ami,Mishra,Male,1959-11-24,2000-07-01,ami@gmail.com,6309370762,Malegaon,504998,Lyricist
-A043,Kunaal,Vermaa,Male,1964-04-13,2010-06-19,kunaal@gmail.com,8179817404,Matheran,588689,Lyricist
-A044,Sayeed,Quadri,Male,1966-11-01,2000-06-12,sayeed@gmail.com,9393262704,Mumbai,790554,Lyricist
-A045,Sachin-Jigar,J K,Male,1967-09-16,1999-08-01,sachin@gmail.com,9446367229,Nagpur,698674,Lyricist
-A046,Jeet,Gannguli,Male,1979-01-05,2008-11-22,jeet@gmail.com,9544277555,Nanded,682667,Lyricist
-A047,Vishal,Shekhar,Male,1970-05-04,2007-02-05,vishals@gmail.com,7207021603,Nashik,663000,Lyricist
-A048,NAGULA,HARSHINI,Female,1976-02-04,2000-09-12,nukalanarmada08021978@gmail.com,7032573384,Osmanabad,650304,Lyricist
-A049,Rochak,Kohli,Male,1979-05-15,2004-07-05,rochak@gmail.com,9820146142,Pandharpur,726926,Vocalyst
-A050,Bilal,Saeed,Male,1978-08-29,2009-12-17,bilal@gmail.com,9966013153,Parbhani,560301,Vocalyst
-A051,Sanjay,Dutt,Male,1968-12-08,1999-01-19,sanjay@gmail.com,9833391930,Pune,626510,Vocalyst
-A052,Sonakshi,Sinha,Female,1970-05-06,1996-07-17,sonakshi@gmail.com,7993387347,Ratnagiri,548565,Vocalyst
-A053,Palak,Muchhal,Male,1968-11-27,2010-03-23,palak@gmail.com,9207791271,Sangli,612931,Vocalyst
-A054,Akhil,Sachdeva,Male,1959-02-03,1995-03-03,akhil@gmail.com,9745737022,Satara,629516,Vocalyst
-A055,Himesh,Reshammiya,Male,1965-10-31,1997-10-10,himesh@gmail.com,9495311278,Sevagram,714314,Vocalyst
-A056,Ajay ,Atul,Male,1985-12-14,2006-05-20,ajay@gmail.com,7356673116,Solapur,597627,Vocalyst
-A057,Priyanka,Chopra,Female,1961-04-08,2001-10-18,pc@gmail.com,8547220174,Thane,755998,Vocalyst
-A058,Badshah,N,Male,1985-12-28,2002-01-30,badshah@gmail.com,9995590120,Ulhasnagar,683162,Vocalyst
-A059,Asees,Kaur,Male,1959-02-10,2008-03-11,asees@gmail.com,7382699377,Vasai-Virar,504102,Vocalyst
-A060,Priya,Saraiya,Female,1959-07-20,2010-03-28,priya@gmail.com,7337240619,Wardha,649224,Vocalyst
-A061,Shraddha,Kapoor,Female,1971-04-02,1995-10-12,shraddha@gmail.com,9356093453,Yavatmal,705476,Vocalyst
-A062,Jasleen,Royal,Male,1988-02-20,1995-02-08,jasleen@gmail.com,9515377254,Agra,547062,Lyricist
-A063,Hrithik,Roshan,Male,1982-04-10,2010-09-05,hr@gmail.com,8770846755,Aligarh,610216,Vocalyst
-A064,Diljit,Dosanjh,Male,1982-11-04,2008-12-09,diljit@gmail.com,9446078959,Amroha,618598,Lyricist
-A065,Sonu,Nigam,Male,1963-07-18,1995-01-18,sonun@gmail.com,9991218099,Ayodhya,625358,Vocalyst
-A066,Swanand,Kirkire,Male,1969-10-09,1996-06-20,swanand@gmail.com,9704654555,Azamgarh,642382,Vocalyst
-A067,Amaal,Mallik,Male,1980-02-01,1998-01-25,amaal@gmail.com,9182696738,Bahraich,734639,Vocalyst
-A068,Javed,Akhtar,Male,1970-08-31,2010-12-15,javed@gmail.com,9847070239,Ballia,743310,Vocalyst
-A069,Ranveer,Singh,Male,1968-04-07,2006-08-12,ranveer@gmail.com,9495637371,Banda,731239,Vocalyst
-A070,Sunidhi,Chauhan,Female,1968-12-11,2007-09-28,sunidhi@gmail.com,9947595438,Bara Banki,719207,Vocalyst
-A071,Tarak,NT,Male,1964-09-29,2002-05-17,ntr@gmail.com,8790053139,Adoni,743370,Vocalyst
-A072,Nitya,menon,Female,1958-11-30,2009-11-02,nitya@gmail.com,8008585202,Amaravati,663006,Vocalyst
-A073,Arjun,Allu,Male,1973-02-27,1999-04-25,aa@gmail.com,9879912531,Anantapur,709267,Vocalyst
-A074,Chiranjeevi,Konidela,Male,1987-07-16,2002-01-02,chiru@@gmail.com,9895465920,Chandragiri,518675,Vocalyst
-A075,Vijay,Devarakonda,Male,1971-04-20,2001-02-21,vd@gmail.com,9061226986,Hyderabad,502057,Vocalyst
-A076,Balakrishna,Nandamuri,Male,1980-03-16,1996-11-21,balakrishna@gmail.com,6282918662,Karimnagar,783201,Vocalyst
-A077,Nagarjuna,Akkineni,Male,1978-09-02,2002-11-11,nag@gmail.com,9947812376,Khammam,701010,Vocalyst
-A078,Pawan,Kalyan,Male,1972-08-24,2004-02-16,pk@gmail.com,9020736053,Mahbubnagar,677562,Vocalyst
-A079,Siddharth,Abhimanyu,male,1989-02-09,2005-09-01,siddu@gmail.com,7447566836,Nizamabad,511386,Vocalyst
-A080,Ravi,Teja,male,1974-08-19,2002-04-26,ravi@gmail.com,7558996771,Sangareddi,530870,Vocalyst
-A081,Sri,Samyu,Female,1951-03-30,2003-03-01,srisamyyu@gmail.com,1234567980,Hyderabad,512463,Vocalyst
+id,fname,lname,gender,dob,datejoined,mail,phno,city,zip,role
+A001,Rob,Start,Male,1958-12-05,2002-08-06,rob12@gmail.com,9494959158,winterfall,514896,Lyricist
+A002,A.R.,Rahman,Male,1966-06-05,2003-06-14,rahman06@gmail.com,9895715248,Chennai,600001,Lyricist
+A003,Krishna ,Chaitanya,Male,1966-05-15,2006-12-04,chaitanyak@gmail.com,8129197922,Eluru,561001,Lyricist
+A004,Chadrabose,K,Male,1987-04-21,1995-12-08,kscb@gmail.com,9446090724,Challagariga,506100,Lyricist
+A005,Aishwarya,P,Female,1964-12-31,2011-11-08,aishwaryapareparambil@gmail.com,9567194194,Bareilly,732496,Lyricist
+A006,Deepak,P Nambiar,Male,1984-10-07,2016-05-04,sulekhanambiar@outlook.com,9207230197,Basti,679197,Lyricist
+A007,Govind,Murali,Male,1976-07-08,2001-06-02,govindmurali47@gmail.com,9447333007,Bijnor,640449,Lyricist
+A008,Harry,Paul,Male,1966-02-05,2011-09-03,harrypaul1812@gmail.com,9544514506,Bithur,660071,Lyricist
+A009,Vishnu,Sreekumar,Male,1970-12-30,2004-11-13,kalavedu4050@gmail.com,9495613097,Chittoor,649988,Lyricist
+A010,Niranjan,Praveen,Male,1968-12-27,2002-02-05,praveenkarilly@gmail.com,9129705463,Dowlaiswaram,534871,Lyricist
+A011,POWELL,MOOTHEDAN,Male,1961-04-15,1998-12-25,powellmoothedan12c@gmail.com,9846986214,Eluru,726126,Lyricist
+A012,Nelapati,Lalith Karthik,Male,1981-05-15,2009-01-21,n.lalithkarthik17@gmail.com,8287520837,Guntur,748876,Lyricist
+A013,AMIN,SHAJAHAN,Male,1969-07-10,2001-08-26,aminshaikhb@gmail.com,9847894688,Kadapa,592953,Lyricist
+A014,Prithvi,Raj,Male,1971-02-07,2007-05-18,prithvic1103@gmail.com,9656759294,Kakinada,756309,Lyricist
+A015,Shradha,Shaji,Female,1980-04-16,1995-10-08,deepthysist@gmail.com,8106127114,Kurnool,680280,Lyricist
+A016,Abhishek,A b,Male,1976-05-04,2004-05-03,kehsihba.ab@icloud.com,9765138194,Machilipatnam,625525,Lyricist
+A017,SREEKANTH,K,Male,1978-02-19,2000-09-22,sreekanthk2003@gmail.com,7909113000,Nagarjunako??a,689898,Lyricist
+A018,Abhijith,S,Male,1960-02-20,2000-04-07,abhit999@gmail.com,7510336648,Rajahmundry,516035,Lyricist
+A019,B,Ananda Deva,Male,1970-02-08,1999-09-11,anandababub9@gmail.com,8086214895,Srikakulam,762377,Lyricist
+A020,Vinayak,V Thayil,Male,1964-05-01,2003-01-13,vinaythayil12@gmail.com,9446763771,Tirupati,677392,Lyricist
+A021,Arijit,Singh,Male,1987-04-25,2007-08-17,arijith@gmail.com,9949886613,Vijayawada,742104,Vocalyst
+A022,Amitabh,Bhattacharya,Male,1976-11-16,2004-02-14,amitabhbatta@gmail.com,8074866182,Visakhapatnam,720123,Lyricist
+A023,Pritam,Chakraborty,Male,1971-06-14,2001-05-04,pritam@gmail.com,9446177964,Vizianagaram,734012,Lyricist
+A024,B,Praak,Male,1986-02-07,2009-12-12,pratik@gmail.com,9985100229,Yemmiganur,789010,Vocalyst
+A025,Vishal,Mishra,Male,1991-12-03,2015-02-13,vishalm@gmail.com,6303658929,Arunach,786510,Vocalyst
+A026,Amit,Trivedi,Male,1979-04-08,2003-07-10,amit@gmail.com,8078092819,Ahmadnagar,707452,Vocalyst
+A027,Shreya,Ghoshal,Female,1960-12-20,1995-09-30,shreya@gmail.com,9948346176,Akola,786883,Vocalyst
+A028,Mithoon,M,Male,1972-12-09,2000-08-01,mithoon@gmail.com,6303747821,Amravati,722978,Lyricist
+A029,Varun,Dhawan,Male,1970-09-24,2004-07-08,varun@gmail.com,9446118887,Aurangabad,605659,Vocalyst
+A030,Ayushmann,Khurrana,Male,1985-06-29,2002-10-16,ayushmann@gmail.com,9249888070,Bhandara,542503,Vocalyst
+A031,Kumaar,K,Male,1969-07-13,1995-03-11,kumaar@gmail.com,9446343531,Bhusawal,673851,Lyricist
+A032,Manoj,Muntashir,Male,1980-11-14,1999-10-01,manoj@gmail.com,7593900874,Bid,711625,Lyricist
+A033,Alia,Bhatt,Female,1990-11-27,1998-10-31,alia@gmail.com,7593916064,Buldana,744218,Vocalyst
+A034,Arko,Vishvak,Female,1983-12-12,1997-12-02,arko@gmail.com,7025033975,Chandrapur,504764,Lyricist
+A035,Sidharth,Malhotra,Male,1962-09-07,1996-07-04,sidharth@gmail.com,9983043999,Daulatabad,507626,Vocalyst
+A036,Irshad,Kamil,Male,1974-08-10,2013-05-20,irshad@gmail.com,8592077065,Dhule,651058,Lyricist
+A037,Kim,Jordan,Male,1964-10-18,2004-08-14,king@gmail.com,7736416072,Jalgaon,655425,Lyricist
+A038,Atif,Aslam,Male,1969-03-16,2008-09-06,atif@gmail.com,8919953153,Kalyan,692603,Lyricist
+A039,Jaani,NULL,Female,1984-07-24,2009-07-26,jaani@gamil.com,8790718855,Karli,643256,Lyricist
+A040,Tanishk,Bagchi,Male,1973-04-27,2007-06-30,tanishk@gmail.com,9550598956,Kolhapur,640534,Lyricist
+A041,Jubin,Nautiyal,Male,1960-04-22,1995-09-16,jubin@gmail.com,8590578470,Mahabaleshwar,664742,Lyricist
+A042,Ami,Mishra,Male,1959-11-24,2000-07-01,ami@gmail.com,6309370762,Malegaon,504998,Lyricist
+A043,Kunaal,Vermaa,Male,1964-04-13,2010-06-19,kunaal@gmail.com,8179817404,Matheran,588689,Lyricist
+A044,Sayeed,Quadri,Male,1966-11-01,2000-06-12,sayeed@gmail.com,9393262704,Mumbai,790554,Lyricist
+A045,Sachin-Jigar,J K,Male,1967-09-16,1999-08-01,sachin@gmail.com,9446367229,Nagpur,698674,Lyricist
+A046,Jeet,Gannguli,Male,1979-01-05,2008-11-22,jeet@gmail.com,9544277555,Nanded,682667,Lyricist
+A047,Vishal,Shekhar,Male,1970-05-04,2007-02-05,vishals@gmail.com,7207021603,Nashik,663000,Lyricist
+A048,NAGULA,HARSHINI,Female,1976-02-04,2000-09-12,nukalanarmada08021978@gmail.com,7032573384,Osmanabad,650304,Lyricist
+A049,Rochak,Kohli,Male,1979-05-15,2004-07-05,rochak@gmail.com,9820146142,Pandharpur,726926,Vocalyst
+A050,Bilal,Saeed,Male,1978-08-29,2009-12-17,bilal@gmail.com,9966013153,Parbhani,560301,Vocalyst
+A051,Sanjay,Dutt,Male,1968-12-08,1999-01-19,sanjay@gmail.com,9833391930,Pune,626510,Vocalyst
+A052,Sonakshi,Sinha,Female,1970-05-06,1996-07-17,sonakshi@gmail.com,7993387347,Ratnagiri,548565,Vocalyst
+A053,Palak,Muchhal,Male,1968-11-27,2010-03-23,palak@gmail.com,9207791271,Sangli,612931,Vocalyst
+A054,Akhil,Sachdeva,Male,1959-02-03,1995-03-03,akhil@gmail.com,9745737022,Satara,629516,Vocalyst
+A055,Himesh,Reshammiya,Male,1965-10-31,1997-10-10,himesh@gmail.com,9495311278,Sevagram,714314,Vocalyst
+A056,Ajay ,Atul,Male,1985-12-14,2006-05-20,ajay@gmail.com,7356673116,Solapur,597627,Vocalyst
+A057,Priyanka,Chopra,Female,1961-04-08,2001-10-18,pc@gmail.com,8547220174,Thane,755998,Vocalyst
+A058,Badshah,N,Male,1985-12-28,2002-01-30,badshah@gmail.com,9995590120,Ulhasnagar,683162,Vocalyst
+A059,Asees,Kaur,Male,1959-02-10,2008-03-11,asees@gmail.com,7382699377,Vasai-Virar,504102,Vocalyst
+A060,Priya,Saraiya,Female,1959-07-20,2010-03-28,priya@gmail.com,7337240619,Wardha,649224,Vocalyst
+A061,Shraddha,Kapoor,Female,1971-04-02,1995-10-12,shraddha@gmail.com,9356093453,Yavatmal,705476,Vocalyst
+A062,Jasleen,Royal,Male,1988-02-20,1995-02-08,jasleen@gmail.com,9515377254,Agra,547062,Lyricist
+A063,Hrithik,Roshan,Male,1982-04-10,2010-09-05,hr@gmail.com,8770846755,Aligarh,610216,Vocalyst
+A064,Diljit,Dosanjh,Male,1982-11-04,2008-12-09,diljit@gmail.com,9446078959,Amroha,618598,Lyricist
+A065,Sonu,Nigam,Male,1963-07-18,1995-01-18,sonun@gmail.com,9991218099,Ayodhya,625358,Vocalyst
+A066,Swanand,Kirkire,Male,1969-10-09,1996-06-20,swanand@gmail.com,9704654555,Azamgarh,642382,Vocalyst
+A067,Amaal,Mallik,Male,1980-02-01,1998-01-25,amaal@gmail.com,9182696738,Bahraich,734639,Vocalyst
+A068,Javed,Akhtar,Male,1970-08-31,2010-12-15,javed@gmail.com,9847070239,Ballia,743310,Vocalyst
+A069,Ranveer,Singh,Male,1968-04-07,2006-08-12,ranveer@gmail.com,9495637371,Banda,731239,Vocalyst
+A070,Sunidhi,Chauhan,Female,1968-12-11,2007-09-28,sunidhi@gmail.com,9947595438,Bara Banki,719207,Vocalyst
+A071,Tarak,NT,Male,1964-09-29,2002-05-17,ntr@gmail.com,8790053139,Adoni,743370,Vocalyst
+A072,Nitya,menon,Female,1958-11-30,2009-11-02,nitya@gmail.com,8008585202,Amaravati,663006,Vocalyst
+A073,Arjun,Allu,Male,1973-02-27,1999-04-25,aa@gmail.com,9879912531,Anantapur,709267,Vocalyst
+A074,Chiranjeevi,Konidela,Male,1987-07-16,2002-01-02,chiru@@gmail.com,9895465920,Chandragiri,518675,Vocalyst
+A075,Vijay,Devarakonda,Male,1971-04-20,2001-02-21,vd@gmail.com,9061226986,Hyderabad,502057,Vocalyst
+A076,Balakrishna,Nandamuri,Male,1980-03-16,1996-11-21,balakrishna@gmail.com,6282918662,Karimnagar,783201,Vocalyst
+A077,Nagarjuna,Akkineni,Male,1978-09-02,2002-11-11,nag@gmail.com,9947812376,Khammam,701010,Vocalyst
+A078,Pawan,Kalyan,Male,1972-08-24,2004-02-16,pk@gmail.com,9020736053,Mahbubnagar,677562,Vocalyst
+A079,Siddharth,Abhimanyu,male,1989-02-09,2005-09-01,siddu@gmail.com,7447566836,Nizamabad,511386,Vocalyst
+A080,Ravi,Teja,male,1974-08-19,2002-04-26,ravi@gmail.com,7558996771,Sangareddi,530870,Vocalyst
+A081,Sri,Samyu,Female,1951-03-30,2003-03-01,srisamyyu@gmail.com,1234567980,Hyderabad,512463,Vocalyst
